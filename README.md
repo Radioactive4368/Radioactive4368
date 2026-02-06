@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Radioactive4368
+- 👋 Hi, I’m @Radioactive4368 also known as RadioactiveFrog_ which i usually go by but the username was taken... grr
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c sharp + python
 - 💞️ I’m looking to collaborate on hacks and code
 - 📫 How to reach me davespargo6@gmail.com or `._HARAMBE_.` on discord! (any questions dm me!!!!!)
+
 
 <!---
 Radioactive4368/Radioactive4368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
