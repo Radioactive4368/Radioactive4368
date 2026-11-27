@@ -1,6 +1,6 @@
 # Developer based in Exeter, UK
 
-Currently studying **T-Level Digital Software Development (Level 3)**. I mostly build web apps, work with APIs, and write Python scripts to generate 3D game maps.
+Currently studying **T-Level Digital Software Development (Level 3)**. I mostly program in Python, with a small amount of HTML, CSS and javascript.
 
 ---
 
