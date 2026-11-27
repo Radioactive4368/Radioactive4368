@@ -2,6 +2,8 @@
 
 Currently studying **T-Level Digital Software Development (Level 3)**. I mostly build web apps, work with APIs, and write Python scripts to generate 3D game maps.
 
+---
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,12 +14,17 @@ Currently studying **T-Level Digital Software Development (Level 3)**. I mostly 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ### Currently Working On
 
 - Turning local LiDAR elevation data into 3D environments in Blender
 - Building backend APIs and web apps
 - Custom Linux setups and security tooling
 
+---
+
 ### Contact
 
-Email: [Radioactive@esmc.uk](mailto:Radioactive@esmc.uk)
+- Email: [Radioactive@esmc.uk](mailto:Radioactive@esmc.uk)  
+- Discord: ```._harambe_.```
